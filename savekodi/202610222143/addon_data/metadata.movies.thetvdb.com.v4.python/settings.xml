@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="language" default="true">English</setting>
+    <setting id="rating_country" default="true">USA</setting>
+    <setting id="get_tags" default="true">true</setting>
+    <setting id="gender" default="true">Other</setting>
+    <setting id="year" default="true">1900</setting>
+    <setting id="pin" default="true" />
+    <setting id="uuid">3fd5cde6-d82f-4645-a099-5a751c672f77</setting>
+</settings>
