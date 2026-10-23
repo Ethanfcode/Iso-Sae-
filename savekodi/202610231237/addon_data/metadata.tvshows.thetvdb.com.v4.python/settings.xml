@@ -1,0 +1,7 @@
+<settings version="2">
+    <setting id="language">French</setting>
+    <setting id="season_type" default="true">1</setting>
+    <setting id="gender" default="true">Other</setting>
+    <setting id="year" default="true">1900</setting>
+    <setting id="pin" default="true" />
+</settings>
